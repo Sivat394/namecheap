@@ -7,6 +7,8 @@ require (
 	github.com/libdns/namecheap v0.1.1-0.20250828012207-e1a51bc9ed35
 )
 
+replace github.com/caddy-dns/namecheap => github.com/Sivat394/namecheap v2
+
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/caddyserver/certmagic v0.21.6 // indirect
