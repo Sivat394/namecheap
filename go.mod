@@ -1,4 +1,4 @@
-module github.com/caddy-dns/namecheap
+module github.com/Sivat394/namecheap
 
 go 1.23
 
